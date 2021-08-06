@@ -2,13 +2,18 @@
 
     require_once 'config.php';
 
-    $version = 9;
-    $backgroundColor = "aqua";
+    $version = 10;
+    $backgroundColor = "DarkBlue";
 
 ?>
 
 <!DOCTYPE html>
 <html>
+    <style>
+        p, h1 {
+            color: white;
+        }
+    </style>
     <body style="background-color: <?= $backgroundColor ?>;">
 
         <h1>Hello CI/CD World !</h1>
