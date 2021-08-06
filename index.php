@@ -1,7 +1,7 @@
 <?php
 
-    $version = 6;
-    $backgroundColor = "blue";
+    $version = 7;
+    $backgroundColor = "orange";
 
 ?>
 
