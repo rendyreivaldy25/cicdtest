@@ -1,12 +1,13 @@
 <?php
 
-    $version = 3;
+    $version = 4;
+    $backgroundColor = "red";
 
 ?>
 
 <!DOCTYPE html>
 <html>
-    <body>
+    <body style="background-color: <?= $backgroundColor ?>;">
 
         <h1>Hello CI/CD World !</h1>
 
