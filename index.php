@@ -2,8 +2,8 @@
 
     require_once 'config.php';
 
-    $version = 10;
-    $backgroundColor = "DarkBlue";
+    $version = 11;
+    $backgroundColor = "DarkSlateGray";
 
 ?>
 
