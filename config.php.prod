@@ -1,0 +1,7 @@
+<?php
+
+    define("DB_USERNAME", "rootprod");
+    define("DB_PASSWORD", "passwordprod");
+    define("DB_NAME", "nama_db_prod");
+
+?>
