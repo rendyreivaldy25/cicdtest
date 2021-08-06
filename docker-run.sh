@@ -1,6 +1,6 @@
 docker container stop btncicdtestdev
 docker container rm btncicdtestdev
-docker build
+docker build .
 docker run -d \
 -u root \
 --name btncicdtestdev \
