@@ -1,6 +1,6 @@
 <?php
 
     $version = 2;
-    echo "Hello World Version $version !";
+    echo "<h1>Hello World Version $version !</h1>";
 
 ?>
