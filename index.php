@@ -1,6 +1,16 @@
 <?php
 
-    $version = 2;
-    echo "<h1>Hello World Version $version !</h1>";
+    $version = 3;
 
 ?>
+
+<!DOCTYPE html>
+<html>
+    <body>
+
+        <h1>Hello CI/CD World !</h1>
+
+        <p>This is version <?= $version ?> </p>
+
+    </body>
+</html>
